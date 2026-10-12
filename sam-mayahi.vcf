@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mayahi;Sam;;;
+FN:Sam Mayahi
+ORG:Feral Node
+TITLE:Software Testing Student · Test Automation
+EMAIL;TYPE=INTERNET,WORK:sam.mayahi@iths.se
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/sam-mayahi-50043a443/
+URL;TYPE=GitHub:https://github.com/feralnode
+ADR;TYPE=WORK:;;Göteborg;;;Sweden
+NOTE:Curious mind. Systematic thinking. Wild perspective.
+END:VCARD
